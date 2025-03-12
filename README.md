@@ -26,14 +26,14 @@
 ### **Notable Skills:**
 - 🛠 **Twilio Specialist:**  
   Over 6 years of experience working with **Twilio API** (PHP & JavaScript SDKs) for messaging, calls, and notifications.
+  - 🛠 **Laravel Expertise:**  
+  Hands-on experience with Laravel versions **8, 9, and 10**.
 - 🌐 **REST API Development:**  
   Expert in creating and consuming APIs for seamless application integrations.
 - 🖥 **VPS Management:**  
   Proficient in configuring and maintaining VPS with Nginx, Linux/Unix systems.
 - 📦 **Team Leadership:**  
   Skilled in mentoring teams and driving projects to success.
-- 🛠 **Laravel Expertise:**  
-  Hands-on experience with Laravel versions **8, 9, and 10**.
 
 ---
 
